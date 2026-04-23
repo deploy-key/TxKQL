@@ -1,0 +1,3 @@
+﻿// MSFT is high
+DNSEtw
+| project EventId, ProcessId, EventData.QueryName
